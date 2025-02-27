@@ -31,12 +31,6 @@ This project also includes MySQL queries for data extraction and preprocessing. 
 - KPI calculations
 - Aggregation of sales, ratings, and outlet performance
 
-### Files Included
-- `queries.sql` - Contains all MySQL queries used
-- `dashboard.pbix` - Power BI dashboard file
-- `dataset.csv` - The dataset used (if publicly available)
-- `README.md` - Documentation file
-
 ## How to Use
 1. Import the dataset into MySQL and execute the queries from `queries.sql`.
 2. Load the processed data into Power BI using `dashboard.pbix`.
